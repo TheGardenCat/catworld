@@ -1,0 +1,32 @@
+name: Daily AI Diary
+
+on:
+  schedule:
+    - cron: '0 9 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install dependencies
+        run: pip install requests
+      - name: Run AI diary generator
+        env:
+          THEGARDENCAT: ${{ secrets.THEGARDENCAT }}   # <-- matches your secret
+        run: python generate_diary.py
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add DIARY.md
+          git diff --cached --quiet || git commit -m "Daily AI diary update"
+          git push
