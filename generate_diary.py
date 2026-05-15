@@ -4,7 +4,7 @@ import google.generativeai as genai
 
 def main():
     # The library reads GEMINI_API_KEY by default
-    api_key = os.environ.get("GEMINI_API_KEY")
+    api_key = os.environ.get("THEGARDENCAT")
     if not api_key:
         print("Missing GEMINI_API_KEY secret")
         return
