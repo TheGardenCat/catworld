@@ -31,3 +31,6 @@ Cats boost productivity.
 
 ## 2026-05-15
 Cats boost productivity.
+
+## 2026-05-15
+One surprising fact about cats that most people may not know is that they have a unique organ called the "Jacobson's organ" or "vomeronasal organ" located in the nasal cavity.
