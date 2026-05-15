@@ -2,8 +2,8 @@ name: Daily AI Diary
 
 on:
   schedule:
-    - cron: '0 9 * * *'
-  workflow_dispatch:
+    - cron: '0 9 * * *'   # Runs daily at 09:00 UTC
+  workflow_dispatch:       # Allows manual trigger
 
 permissions:
   contents: write
@@ -13,18 +13,20 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+
       - name: Install dependencies
-        run: |
-          pip install google-generativeai
+        run: pip install google-generativeai
+
       - name: Run AI diary generator
         env:
-          # Map your secret to the environment variable the library expects
-          GEMINI_API_KEY: ${{ secrets.THEGARDENCAT }}
+          THEGARDENCAT: ${{ secrets.THEGARDENCAT }}   # Your secret name
         run: python generate_diary.py
+
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
