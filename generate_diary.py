@@ -1,35 +1,26 @@
 import os
 import datetime
-import google.generativeai as genai
+from groq import Groq
 
 def main():
-    # Read the secret directly (matches your GitHub secret name)
+    # Read your GitHub secret (still named THEGARDENCAT)
     api_key = os.environ.get("THEGARDENCAT")
     if not api_key:
         print("Missing THEGARDENCAT secret")
         return
 
-    genai.configure(api_key=api_key)
+    client = Groq(api_key=api_key)
 
-    # Try multiple model names (Google changes them often)
-    model_names = ["gemini-1.5-flash", "gemini-1.5-pro", "gemini-2.0-flash-exp"]
-    tip = None
+    prompt = "Write a one‑sentence interesting fact or productivity tip for cat owners. Keep it fun, original, and under 20 words."
 
-    for model_name in model_names:
-        try:
-            print(f"Trying model: {model_name}")
-            model = genai.GenerativeModel(model_name)
-            response = model.generate_content(
-                "Write a one‑sentence interesting fact or productivity tip for cat owners. Keep it fun, original, and under 20 words."
-            )
-            tip = response.text.strip()
-            print(f"Success with {model_name}")
-            break
-        except Exception as e:
-            print(f"Model {model_name} failed: {e}")
-            continue
-
-    if not tip:
+    try:
+        chat_completion = client.chat.completions.create(
+            messages=[{"role": "user", "content": prompt}],
+            model="llama-3.3-70b-versatile",   # Fast, free, and good
+        )
+        tip = chat_completion.choices[0].message.content.strip()
+    except Exception as e:
+        print(f"Groq API error: {e}")
         tip = "AI cat was sleepy today – stay curious and keep cuddling!"
 
     today = datetime.date.today().isoformat()
