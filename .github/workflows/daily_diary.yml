@@ -18,10 +18,12 @@ jobs:
         with:
           python-version: '3.11'
       - name: Install dependencies
-        run: pip install requests
+        run: |
+          pip install google-generativeai
       - name: Run AI diary generator
         env:
-          THEGARDENCAT: ${{ secrets.THEGARDENCAT }}   # <-- matches your secret
+          # Map your secret to the environment variable the library expects
+          GEMINI_API_KEY: ${{ secrets.THEGARDENCAT }}
         run: python generate_diary.py
       - name: Commit and push changes
         run: |
