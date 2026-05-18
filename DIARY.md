@@ -43,3 +43,6 @@ One unique habit of cats that makes them special is their tendency to knead with
 
 ## 2026-05-17
 One surprising thing about cats that most people may not know is that they have a unique organ called the "Jacobson's organ" or "vomeronasal organ" located in the roof of their
+
+## 2026-05-18
+One surprising thing about cats that many people may not know is that they have a unique organ called the "Jacobson's organ" or "vomeronasal organ" (VNO) located in
