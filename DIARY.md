@@ -49,3 +49,6 @@ One surprising thing about cats that many people may not know is that they have 
 
 ## 2026-05-19
 As the sun rose over the sleepy neighborhood, a curious little cat named Whiskers slipped out of the house and embarked on her daily adventure, chasing butterflies, sniffing blooming flowers, and pur
+
+## 2026-05-20
+Cats have a unique way of walking called a "righting reflex" that allows them to always land on their feet, even when dropped upside down, due to their incredibly flexible spines and exceptional
