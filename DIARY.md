@@ -70,3 +70,6 @@ A cat's purr is a soothing symphony of contentment, a rumbling hum of happiness 
 
 ## 2026-05-26
 A cat's purr is a soothing symphony of contentment, a vibrational hum of happiness that rumbles like a gentle thunder on a summer day, warming the air with a sense of serene
+
+## 2026-05-27
+One interesting observation about cat behavior is their unique way of communicating through scent marking. Cats have scent glands located on their faces, near their cheeks and lips, as well as on their paws and near
