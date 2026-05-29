@@ -76,3 +76,6 @@ One interesting observation about cat behavior is their unique way of communicat
 
 ## 2026-05-28
 As the sun rose over the sleepy neighborhood, Whiskers the curious cat set out on her daily adventure, chasing a butterfly through the garden, pouncing on a hidden toy, and finally curling
+
+## 2026-05-29
+One surprising thing about cats that most people may not know is that they have a unique organ called the "Jacobson's organ" or "vomeronasal organ" located in the roof of their
