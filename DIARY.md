@@ -82,3 +82,6 @@ One surprising thing about cats that most people may not know is that they have 
 
 ## 2026-05-30
 As the sun rose over the sleepy neighborhood, a curious little cat named Whiskers slipped out of the house and embarked on a daily adventure, chasing butterflies, sniffing flowers, and purring content
+
+## 2026-05-31
+One interesting observation about cat behavior is their unique way of communicating through scent marking and "head butting" or "head pressing." Cats have scent glands located on their forehead, cheeks, and lips,
