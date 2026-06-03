@@ -91,3 +91,6 @@ A cat's purr is a soothing symphony of contentment, a gentle hum of happiness th
 
 ## 2026-06-02
 Cats have a unique talent for recognizing the sound of their owner's voice, and they can distinguish it from other voices, even when it's just a recording, showing just how attuned they are
+
+## 2026-06-03
+One interesting observation about cat behavior is their unique way of communicating through scent marking and rubbing. Cats have scent glands located on their faces, near their cheeks and lips, as well as on their paws
