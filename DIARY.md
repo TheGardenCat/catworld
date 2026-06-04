@@ -94,3 +94,6 @@ Cats have a unique talent for recognizing the sound of their owner's voice, and 
 
 ## 2026-06-03
 One interesting observation about cat behavior is their unique way of communicating through scent marking and rubbing. Cats have scent glands located on their faces, near their cheeks and lips, as well as on their paws
+
+## 2026-06-04
+One surprising thing about cats that most people may not know is that they have a unique organ called the "Jacobson's organ" or "vomeronasal organ" located in the nasal cavity.
