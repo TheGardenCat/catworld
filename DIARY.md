@@ -97,3 +97,6 @@ One interesting observation about cat behavior is their unique way of communicat
 
 ## 2026-06-04
 One surprising thing about cats that most people may not know is that they have a unique organ called the "Jacobson's organ" or "vomeronasal organ" located in the nasal cavity.
+
+## 2026-06-05
+One interesting observation about cat behavior is their unique way of communicating and showing affection through "kneading." Kneading is when a cat presses their paws into a surface, often in a rhyth
