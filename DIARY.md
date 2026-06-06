@@ -100,3 +100,6 @@ One surprising thing about cats that most people may not know is that they have 
 
 ## 2026-06-05
 One interesting observation about cat behavior is their unique way of communicating and showing affection through "kneading." Kneading is when a cat presses their paws into a surface, often in a rhyth
+
+## 2026-06-06
+One interesting observation about cat behavior is their unique way of communicating through scent marking and rubbing. Cats have scent glands located on their faces, near their cheeks and lips, as well as on their paws
