@@ -106,3 +106,6 @@ One interesting observation about cat behavior is their unique way of communicat
 
 ## 2026-06-07
 One interesting observation about cat behavior is their unique way of communicating through scent marking. Cats have scent glands located on their faces, near their cheeks and lips, as well as on their paws and near
+
+## 2026-06-08
+One surprising thing about cats that most people might not know is that they have a unique organ called the "Jacobson's organ" or "vomeronasal organ" located in the roof of their
