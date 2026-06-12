@@ -118,3 +118,6 @@ One unique habit of cats that makes them special is their tendency to "knead" wi
 
 ## 2026-06-11
 A cat's purr is a soothing symphony of contentment, a vibrational hum of happiness that rumbles like a gentle thunder on a summer day, warming the air with a sense of serene
+
+## 2026-06-12
+One surprising fact about cats that most people may not know is that they have a unique organ called the "Jacobson's organ" or "vomeronasal organ" located in the roof of their
