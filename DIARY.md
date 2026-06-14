@@ -124,3 +124,6 @@ One surprising fact about cats that most people may not know is that they have a
 
 ## 2026-06-13
 One surprising thing about cats that most people may not know is that they have a unique organ called the "Jacobson's organ" or "vomeronasal organ" located in the roof of their
+
+## 2026-06-14
+One short tip for making a cat happier is to provide vertical space. Cats love to climb and perch, so adding cat shelves, cat trees, or scratching posts to your home can give them a sense
