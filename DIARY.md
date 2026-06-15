@@ -127,3 +127,6 @@ One surprising thing about cats that most people may not know is that they have 
 
 ## 2026-06-14
 One short tip for making a cat happier is to provide vertical space. Cats love to climb and perch, so adding cat shelves, cat trees, or scratching posts to your home can give them a sense
+
+## 2026-06-15
+One interesting observation about cat behavior is their unique way of communicating through scent marking. Cats have scent glands located on their faces, near their cheeks and lips, as well as on their paws. They
