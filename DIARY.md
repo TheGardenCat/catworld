@@ -148,3 +148,6 @@ As the sun rose over the quiet neighborhood, a curious little cat named Whiskers
 
 ## 2026-06-21
 One interesting observation about cat behavior is their unique way of communicating through scent marking and kneading. Cats have scent glands located on their faces, near their cheeks and lips, as well as on their p
+
+## 2026-06-22
+One simple tip to make a cat happier is to provide vertical space. Cats love to climb, perch, and observe their surroundings from above. Consider adding a cat tower or scratching post near a window to
