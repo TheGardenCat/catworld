@@ -157,3 +157,6 @@ One simple way to make a cat happier is to provide vertical space for them to cl
 
 ## 2026-06-24
 One unique habit of cats that makes them special is their tendency to knead with their paws. Also known as "making biscuits," this behavior is a leftover from their kittenhood when they used to
+
+## 2026-06-25
+One surprising fact about cats that many people may not know is that they have a unique organ called the "Jacobson's organ" or "vomeronasal organ" (VNO) located in
