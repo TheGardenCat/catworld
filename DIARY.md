@@ -187,3 +187,6 @@ Cats have a unique way of walking called a "righting reflex" that allows them to
 
 ## 2026-07-04
 As the sun rose over the sleepy neighborhood, Whiskers the curious cat slipped out of the house and embarked on a thrilling daily adventure, chasing butterflies, sniffing secret gardens, and purr-f
+
+## 2026-07-05
+One interesting observation about cat behavior is their unique way of communicating through scent marking. Cats have scent glands located on their faces, near their cheeks and lips, as well as on their paws. They
