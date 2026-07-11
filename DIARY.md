@@ -205,3 +205,6 @@ A cat's purr is a soothing symphony of contentment, a vibrational hum of happine
 
 ## 2026-07-10
 One interesting observation about cat behavior is their unique way of communicating through scent marking. Cats have scent glands located on their faces, near their cheeks and lips, as well as on their paws and near
+
+## 2026-07-11
+One simple tip to make a cat happier is to provide vertical space. Cats love to climb, perch, and observe their surroundings from above. Consider adding a cat tree or shelf near a window to give
