@@ -226,3 +226,6 @@ To make a cat happier, try providing vertical space for them to climb and observ
 
 ## 2026-07-17
 One simple tip to make a cat happier is to provide vertical space. Cats love to climb, perch, and observe from heights, so consider adding a cat tree or shelves near windows for them to lounge
+
+## 2026-07-18
+One unique habit of cats that makes them special is their tendency to "knead" with their paws. Kneading is a natural behavior for cats, where they press their paws into
