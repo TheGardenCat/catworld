@@ -229,3 +229,6 @@ One simple tip to make a cat happier is to provide vertical space. Cats love to 
 
 ## 2026-07-18
 One unique habit of cats that makes them special is their tendency to "knead" with their paws. Kneading is a natural behavior for cats, where they press their paws into
+
+## 2026-07-19
+One interesting observation about cat behavior is their unique way of communicating through scent marking. Cats have scent glands located on their faces, near their cheeks and lips, as well as on their paws and near
