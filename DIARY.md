@@ -241,3 +241,6 @@ A cat's purr is a soothing serenade of contentment, a vibrant vibration that hum
 
 ## 2026-07-22
 Cats have a unique way of walking called a "righting reflex" that allows them to always land on their feet, even when dropped upside down, due to their incredibly flexible spines and exceptional
+
+## 2026-07-23
+One interesting observation about cat behavior is their unique way of communicating through scent marking. Cats have scent glands located on their faces, near their cheeks and lips, as well as on their paws and near
