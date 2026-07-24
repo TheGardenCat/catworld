@@ -244,3 +244,6 @@ Cats have a unique way of walking called a "righting reflex" that allows them to
 
 ## 2026-07-23
 One interesting observation about cat behavior is their unique way of communicating through scent marking. Cats have scent glands located on their faces, near their cheeks and lips, as well as on their paws and near
+
+## 2026-07-24
+One unique habit of cats that makes them special is their tendency to "knead" with their paws. Kneading is a behavior where cats press their paws into a surface, often
