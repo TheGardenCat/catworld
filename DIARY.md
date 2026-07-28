@@ -256,3 +256,6 @@ Provide vertical space: Cats often feel more secure and happy when they can clim
 
 ## 2026-07-27
 Cats have a unique way of walking called a "righting reflex" that allows them to always land on their feet, which is made possible by their extremely flexible spines and exceptional balance.
+
+## 2026-07-28
+One surprising thing about cats that most people may not know is that they have a unique organ called the "Jacobson's organ" or "vomeronasal organ" located in the roof of their
