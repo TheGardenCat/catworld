@@ -271,3 +271,6 @@ As the sun rose over the sleepy neighborhood, a curious little cat named Whisker
 
 ## 2026-08-01
 One unique habit of cats that makes them special is their tendency to "knead" with their paws. Kneading is a natural behavior for cats, where they press their paws into
+
+## 2026-08-02
+One interesting observation about cat behavior is their unique way of communicating through scent marking. Cats have scent glands located on their faces, near their whiskers, and on their paws. They use these glands
