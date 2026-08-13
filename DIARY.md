@@ -304,3 +304,6 @@ Cats have a unique way of walking called a "righting reflex" that allows them to
 
 ## 2026-08-12
 Cats have a unique nose print, just like human fingerprints, and no two cats have the same pattern of ridges and creases on their noses.
+
+## 2026-08-13
+One unique habit of cats that makes them special is their grooming behavior, particularly the way they use their tongues to clean themselves. Cats have tiny, backward-facing spines on their tongues called papillae
